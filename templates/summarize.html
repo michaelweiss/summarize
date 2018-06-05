@@ -1,22 +1,16 @@
 <link rel="stylesheet" href="css/style.css" type="text/css">
 
 <form method="POST" action="/summarize">
-<p>Title</p>
+<h4>Key phrase</h4>
 <p><input name="title" type="text" value="{{title}}"></p>
-<p>Document</p>
+<h4>Document (cut and paste)</h4>
 <p><textarea name="text">{{text}}</textarea></p>
-<p><input type="submit" value="Summarize"/>
+<p><input class="submit" type="submit" value="Summarize"/>
 </form>
 
-<dl>
-	<dt>Title</dt>
-	<dd>{{title}}</dd>
-	<dt>Text</dt>
-	<dd>{{text}}</dd>
-	<dt>Summary</dt>
-	<dd>
-		{% for sentence in summary %}
-		<p>{{sentence}}</p>
-		{% endfor %}
-	</dd>
-</dl>
+{% if summary %}
+<h4>Summary</h4>
+{% for sentence in summary %}
+<p>{{sentence}}</p>
+{% endfor %}
+{% endif %}

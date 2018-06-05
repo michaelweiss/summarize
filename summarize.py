@@ -23,7 +23,8 @@ text = text.decode('utf-8')
 
 @app.route("/")
 def index():
-	return render_template('index.html', title=title, text=text)
+	return render_template('summarize.html', title=title, text=text,
+		summary=[])
 
 @app.route("/summarize", methods=['POST'])
 def summarize():

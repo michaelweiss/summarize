@@ -90,6 +90,9 @@ textarea {
 	resize: none;
 }
 
+.submit {
+	background-color:lightgreen;
+}
 
 td.fg {
 	background-color:#FAF496;
