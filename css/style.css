@@ -80,10 +80,14 @@ td {
 
 input {
 	font-size: 11pt;
+	width: 400pt;
 }
 
 textarea {
 	font-size: 11pt;
+	width: 400pt;
+	height: 200pt;
+	resize: none;
 }
 
 

@@ -5,8 +5,14 @@ from textteaser import TextTeaser
 
 from flask import Flask
 from flask import render_template
+from flask import send_from_directory
+from flask import request
 
 app = Flask(__name__)
+
+@app.route('/css/<path:path>')
+def sendCss(path):
+    return send_from_directory('css', path)
 
 # article source: https://blogs.dropbox.com/developers/2015/03/limitations-of-the-get-method-in-http/
 title = "Limitations of the GET method in HTTP"
@@ -15,12 +21,16 @@ text = "We spend a lot of time thinking about web API design, and we learn a lot
 title = title.decode('utf-8')
 text = text.decode('utf-8')
 
-@app.route("/summarize")
+@app.route("/")
 def index():
-	return render_template('summarize.html', title=title, 
-		text=text, summary=summarize())
+	return render_template('index.html', title=title, text=text)
 
+@app.route("/summarize", methods=['POST'])
 def summarize():
+	title = request.form['title']
+	text = request.form['text']
 	tt = TextTeaser()
 	sentences = tt.summarize(title, text)
-	return sentences
+	return render_template('summarize.html', title=title, text=text, 
+		summary=sentences)
+
