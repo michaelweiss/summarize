@@ -23,25 +23,17 @@ function find(searchText) {
 }
 </script>
 
-<form method="POST" action="/summarize">
-<h4>Key phrase</h4>
-<p><input name="title" type="text" value="{{title}}"></p>
+<form method="POST" action="/clean">
 <h4>Document (cut and paste)</h4>
-<p><textarea name="text">{{text}}</textarea></p>
-<p><input class="submit" type="submit" value="Summarize"/>
+<p><textarea name="text" value="Enter text"></textarea></p>
+<p><input class="submit" type="submit" value="Clean"/>
 </form>
 
-{% if summary %}
-<h4>Summary</h4>
-<table>
-{% for sentence in summary %}
-<tr>
-	<td valign="top">{{sentence}}</td>
-	<td valign="top"><button onClick="find('{{sentence}}')">Context</button></td> 
-</tr>
-{% endfor %}
-</table>
-
+{% if cleaned %}
 <h4>Text</h4>
-<p id="doctext">{{text}}</p>
+<div id="cleanedtext">
+{% for sentence in cleaned %}
+<p>{{sentence}}</p>
+{% endfor %}
+</div>
 {% endif %}

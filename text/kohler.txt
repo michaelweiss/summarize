@@ -1,0 +1,1202 @@
+      
+-
+
+      
+California Management Review
+2018, Vol. 60(2) 98–121
+© The Regents of the
+University of California 2017
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+hDtOtpIs::/1/d0o.1i.o1r7g7/1/00.01107871/200506811727536187276318261
+journals.sagepub.com/home/cmr
+
+      
+SUMMARY
+Innovative companies are building their business upon the participation of crowds.
+These crowdsourcing business models are powerful because they are scalable. By
+encouraging external innovators to contribute to value creation, crowdsourcing
+innovation platforms have the capability to grow significantly in size and revenue
+without equally increasing its costs. However, quickly and sustainably scaling
+crowdsourcing platforms is a daunting challenge. This article considers more than
+20 leading crowdsourcing ventures to identify scaling challenges and strategies.
+The resulting framework presents scaling paths for managers of crowdsourcing
+ventures as well as executives of traditional companies who seek to build scalable
+crowdsourcing platforms.
+consumers of products.6 Creators and customers interact around the value unit.
+The value unit of crowdsourcing innovation platforms represents the innovation
+outcome.7 The value unit can show varying degrees of elaboration, in relation to
+the quality and kind of contribution the platform seeks. The strength of
+crowdsourcing platforms is to deliver the value unit in a more efficient, effective,
+reliable, personal, or faster way.
+
+      
+As a result, crowdsourcing business models can generate lucrative profits
+without the budgetary strains that plague a traditional company-centric business
+model.8 Look at what 99designs is doing to the traditional design process. Unlike
+design agencies, 99designs does not employ any of the creative talent they use to
+produce designs. Instead, 99designs’ platform connects customers seeking design
+services to designers. They are claiming a large and growing share of the design
+market from traditional design agencies. In the process, they have built an
+enormous valuation in a startlingly short period.
+
+      
+These crowdsourcing companies grow faster, expand with lower marginal
+cost, and generate substantial revenue because of the scalability of their business
+model.9 The scalability advantages rest in several characteristics. First,
+crowdsourcing platforms are decentralized. They rely on distributed decision making, spreading
+accountability, and harnessing local knowledge.10 By exposing the innovation
+problem to widely diverse individuals with varied skills, experience, and
+perspectives, crowdsourcing can operate at a scale that exceeds the biggest and most
+complex global corporations.11 Thanks to distributed resourcing, these platforms can
+grow much faster than traditional businesses because they create value with their
+community and do not own or control these resources.12 Second, crowdsourcing
+often taps into a level of intrinsic motivation that traditional companies find difficult
+to match. Incentives, such as salaries and bonuses, are not the primary drivers of
+crowds. Contributors from the crowd self-select their challenges and draw
+motivation from the joy of a creative task, learning, or the recognition they receive.13 The
+third major factor of scale for crowdsourcing platforms is the cost effectiveness per
+output, or per worker, compared with traditional companies. Crowdsourcing
+businesses can expand production at minimal marginal costs. New users can create
+new offerings without the platform incurring additional costs for production. The
+properties of digital business models allow fixed costs to remain considerably lower.
+
+      
+Successful scaling can enhance the effectiveness of the platform, create
+barriers to entry for competitors, realize innovation related benefits, and make the
+venture financially viable.
+
+      
+Nevertheless, scaling up without screwing up is hard.14 In the startup
+phase, crowdsourcing platforms fail for many reasons such as a lack of community
+or struggling to build a viable business model. However, there is a growing list of
+companies that have a large community and are creating value through
+crowdsourcing, but that fail to scale. Quirky, the collaborative invention platform that
+was praised for its powerful crowdsourcing model, provides a cautionary tale. The
+platform was one of the most promising startups and quickly attracted several
+hundred thousand community members, which produced a considerable number
+of products marketed online and through large retailers. It promised to
+revolutionize the manufacturing process by democratizing the effort and empowering
+their community of inventors. Their success, however, was short-lived. The model
+broke at scale.15
+
+      
+How can companies effectively scale up a crowdsourcing platform? To
+answer this question, we need an organized way to think about scaling
+strategies. Without a framework for identifying scaling opportunities, it is hard to be
+systematic about the process. As a result of an examination of the scaling efforts
+of leading crowdsourcing platforms, this article offers such a framework. It helps
+traditional companies that are experimenting with crowdsourcing to envision
+potential paths for scaling their crowdsourcing initiatives. Existing
+crowdsourcing ventures can learn from the challenges and strategies of large-scale
+crowdsourcing ventures.
+
+    
+
+      
+Scaling Crowdsourcing Platforms
+
+      
+Let us first briefly define scaling. For the crowdsourcing platform context,
+we use the term to describe the process of significantly increasing the quality and
+quantity of value-creating interactions among platform actors, without equally
+increasing the costs, to result in increased value capture. Our definition implies
+that scaling is conceptually different from growth, even though the terms are
+often used synonymously. Growing means that companies add resources at the
+same rate as they add revenue. Scaling, in general, is about adding revenue at
+an exponential rate, while only adding resources at an incremental rate.16 When
+a crowdsourcing platform adds participants at a quick pace while they increase
+very few additional resources to service those members, they are scaling up.17
+Crowdsourcing innovation platforms that operate on a large scale achieved
+critical mass of both creators and customers to produce a constant stream of
+innovation.18 Our definition excludes organizational scaling, although it will be
+required for exponential growth of a platform.19 This study is concerned with the
+particularities of crowdsourcing innovation platforms. It also excludes
+technological scalability, which describes the capability of a system to cope and perform
+under an increased or expanding workload.20 While the technology underlying
+a crowdsourcing site needs to be scalable, scaling platforms are not primarily a
+technological challenge, and managers need to make the necessary choices to
+leverage the technological affordances to scale effectively.21
+
+      
+
+        
+Scaling Pipelines versus Crowdsourcing Platforms
+
+        
+To understand how scaling crowdsourcing platforms differs from
+traditional businesses, we use the metaphor of pipeline versus platform business
+introduced by Parker et al.22 Most traditional companies resemble pipelines. They
+create value by controlling a linear series of activities. For pipelines, the
+company is the producer of innovation on one end, and the customers’ role is to
+use the value unit at the other end. For innovation platforms, in contrast, a
+company’s role shifts to enable interactions with external innovators, who create or
+co-create innovation. Platform interactions encourage the creation, exchange,
+and consumption of innovation in a variety of ways. Contrasting pipelines and
+platforms explains the ability of crowdsourcing platforms to scale rapidly:
+•
+•
+•
+
+        
+From supply-side to demand-side economies of scale: In the past, business was
+defined in part by an intense desire for organizational growth. Traditional
+pipeline companies rely on supply-side economies of scale.23 These companies
+realize a cost advantage by spreading fixed costs over an increasing number
+of units of output and thereby decreasing costs per unit.24 However,
+crowdsourcing platforms are driven by demand-side economies of scale, or so-called
+network effects. The value created and the profit margins of the platform
+owner both increase as more users join the ecosystem.25 Threadless, the
+T-shirt crowdsourcing platform, is a classic example. More T-shirt designers
+attract more customers, which in turn attract more artists. The more crowd
+members are engaged, the higher the average value per transaction.
+Furthermore, turning consumers into co-creators is a low-cost method of acquiring
+customers, which often leads to viral user acquisition by empowering users
+as marketers.26 Hence, crowdsourcing platforms can be lean rather than large.
+From optimizing value chains to orchestrating innovation networks: Pipeline
+businesses create value by controlling the traditional value chain. They focus on
+optimization to increase operation effectiveness and control resources. In
+contrast, crowdsourcing platforms do not optimize a traditional value chain.
+Rather, they enable value-creating users to connect with customers. A
+pipeline business that designs and makes a product at one end of the pipe, and
+delivers to a customer at the other end, is limited by inefficient gatekeepers
+to manage the flow of value from the producer to the consumer. Consider
+how this approach plays out at a pipeline clothing manufacturer: internal
+gatekeepers select a few items from many designs and hope the ones
+chosen will prove popular. By contrast, Threadless relies on community signals
+to determine which shirts will succeed. The crowdsourcing platform scales
+more rapidly and efficiently because market signals replace traditional
+internal gatekeepers.
+
+        
+From resource control to external sourcing: In decades past, the core values of legacy
+institutions were isolation and closed secret innovation processes. Large R&D
+teams were valuable assets and created barriers to entry for competitors.
+However, value creation is not about the resources per se, but rather lies in the
+ability to access, deploy, exchange, and combine them.27 Crowdsourcing platforms
+unlock new sources of value creation and supply. Internal design resources
+do not confine Threadless’s growth. It can increase its inventory of T-shirts by
+harnessing contributions from the crowd of 120,000 designers. The crowds’
+contributions can be monetized at very low marginal cost, and Threadless can
+scale rapidly and efficiently, with minimal structural restrictions. This structure
+allows crowdsourcing businesses to grow revenue with relatively small
+operating costs, and without the organizational overhead of traditional companies.
+
+        
+The community and its members’ resources are the critical assets.
+
+      
+
+      
+
+        
+Getting Ready to Scale
+
+        
+Sutton and Rao’s28 assertion that to scale excellence, you have to have
+excellence to scale, also applies to crowdsourcing platforms. The following
+building blocks of crowdsourcing platforms are scaling prerequisites29:
+•
+•
+•
+•
+
+        
+Existence of sizable platform actors: Crowdsourcing platforms are multi-sided.30
+The company is the platform owner and the intermediary between creators
+and customers. Before scaling, platforms must lay out a compelling value
+proposition for both sides so that creators and customers derive significant
+value on a consistent basis. During the evolution of crowdsourcing platforms,
+there is an initial period of slow growth while the platform tries to attract first
+participants. Once critical mass is achieved and the platform creates value for
+an increasing number of participants, managers can turn their attention to
+scaling.
+
+        
+Effective core interaction: The core interaction is the key activity the platform
+actors repeatedly perform to create value. The core interaction consists of
+three actions: creation, curation, and consumption. They are divided among
+the platform actors of the company, creators, and customers. Platforms need
+to resist the temptation to accelerate growth before figuring out the core
+interaction where creators are engaged in creation and customers are happy
+to use the outcomes of the creation.
+
+        
+Efficient creation of value unit: The value unit represents the outcome created
+on the platform, whether it is content, information, products, services, or
+designs. Crowdsourcing platforms need to prove that they can produce the
+value unit in better or cheaper ways than traditional pipeline businesses. The
+value unit results from the core interaction.
+
+        
+Evidence of potentially substantial value capture: No crowdsourcing platform is
+ready to scale until it can show at least the prospect for monetization.
+Premature growth can reduce the probability of reaching the inflection point that
+triggers exponential growth.31 The core interaction shapes the type of
+business model.32
+
+      
+
+      
+
+        
+Why Scale Matters
+
+        
+Why scale? First, scale can enhance the effectiveness of crowdsourcing
+platforms because of the interdependencies among participants who take on creator
+and consumer roles. Hence, the value of the platform increases as more people
+engage in value-creating interactions. For instance, InnoCentive, the
+crowdsourcing problem-solving site, enhances the matching between solution seekers
+and solvers with more participants on both sides of the platform. Once
+crowdsourcing platforms reach an inflection point, network effects take effect, and
+growth follows an exponential trajectory.33 Because scaling creates powerful
+network effects, scale trumps differentiation.34 Second, scaling is also important
+defensively to create barriers to entry for competitors. Due to the increasing ease
+and decreasing cost of launching a startup, as soon as a new venture becomes
+successful, it has to race against dozens of copycats.35 In addition,
+crowdsourcing platforms often operate in winner-takes-all markets (or winner-takes-most
+markets),36 because the likelihood for a single crowdsourcing platform in one
+category increases when users value the ability to interact with large numbers
+of other users. Once the crowd and customers begin interacting on a
+particular crowdsourcing platform, it becomes harder for a rival to lure them away.
+Scaling too slowly is particularly dangerous in a business with network effects
+because if a platform does not scale up fast enough, competitors will.37 Leading
+crowdsourcing platforms need to capture first-mover advantages and succeed in
+winner-takes-all markets by scaling up the crowd and building an active
+community as a core asset of their business model. Even if competitors can easily
+copy the underlying technology, the community is difficult to imitate. Third, a
+large-scale crowd has innovation related benefits. A large user base enhances the
+idea diversity,38 which in turn increases the probability that ideas will be more
+valuable to contest sponsors.39 It also increases the possibility to generate novel
+solutions that internal experts did not previously consider.40 Finally, a
+crowdsourcing business may require a certain scale to be financially viable. Especially,
+two-sided marketplace models must have both creators and customers at scale to
+enable monetization.41 Venture capital investments in crowdsourcing companies
+indicate the urge to scale quickly. We can see this clearly in the crowdsourcing
+design sector. Crowdsourcing startups like Fiverr ($111M), 99designs ($45M), or
+DesignCrowd ($11M) attracted significant investments from venture funds.42
+
+        
+Crowdsourcing offers the potential for scalable business models with
+longterm advantages. However, the fact that circumstances make it possible for a
+crowdsourcing platform to scale does not mean that it will. Scale has its limits and
+presents several challenges. Scaling can create friction if the complexity of value
+creation increases excessively or the quality of the innovation outcome suffers.
+While the technology underlying a crowdsourcing platform is easier to scale, the
+people involved in crowdsourcing require coordination costs. Despite the visibility
+and importance of the relatively young crowdsourcing companies that have
+achieved global scale, our understanding of the challenges involved and insights
+on how to quickly and sustainably scale up platforms is limited.43
+
+      
+
+    
+
+      
+Research Method
+
+      
+To identify the most effective actions in scaling crowdsourcing platforms,
+we analyzed more than 20 leading crowdsourcing platforms and conducted
+interviews with platform managers (n = 36) (Table 1). Three main criteria guided
+the selection of cases. First, we chose cases where crowdsourcing is the core of
+a company, and the platform acts as a standalone venture, rather than
+timelimited and isolated crowdsourcing projects. Second, we focused on innovation
+platforms that create something new, rather than exchange platforms that
+facilitate transactions of existing resources. The value units range from ideas
+(solutions to innovation challenges) to design (graphic and product design) to creative
+content (visual advertising content). Third, we looked for scaleups rather than
+startups. Scaleups, in general, are companies growing consistently and
+significantly.44 In the crowdsourcing context, it means that a platform reached
+critical mass on both the creator and customer side, and the venture validated their
+business model. To estimate their scale, we identified key metrics around the
+quantity and quality of the platform’s value unit and the number of participants.
+We included platforms that failed to scale despite their intention to understand
+their challenges.45
+
+      
+
+        For the first step of data collection, we interviewed executives of the
+crowdsourcing ventures about their business model as well as issues and plans related to
+scaling
+        
+(business model and scaling interviews, 2015, n = 15)
+
+        . In a second step, we
+followed up with one or more in-depth scaling interviews to learn about the
+platform’s scaling progress and added cases that experienced substantial growth
+(indepth scaling interviews, 2016-2017, n = 21). The interview data were
+complemented through reports and publicly available material to create timelines
+of how the platform evolved. Each interview was recorded, transcribed, and coded
+with the software Dedoose. Pursuing the goal to obtain deep insights into the
+topic, we opted for an inductive open coding process typical for a grounded theory
+approach.46 We moved from specific observations to a broader generalization and
+placed labels on responses that described discrete challenges and strategies.
+      
+
+    
+
+      
+Scaling Paths and Strategies
+
+      
+How can crowdsourcing platforms scale? Our findings reveal that
+crowdsourcing platforms can scale up along three paths:
+•
+
+      
+Actors: When platforms launch, they initially need to focus on a narrow set
+of participants to achieve critical mass on both sides of the platform. To fuel
+scaling along this first path means bringing new creators and customers to the
+platform or increasing the participation of current actors.
+• Interactions: Many successful platforms begin with a single core interaction
+that consistently generates high value for users and makes the emergence
+of network effects possible. Platforms can scale up by focusing on
+increasing the value and volume of their existing core interaction or adding new
+interactions.
+•
+
+      
+Value units: Platforms start with producing a single value unit. Increasing the
+value of the core value unit or adding new value units is the third promising
+scaling path.
+
+      
+These paths can be chosen individually or together, and a variety of
+combinations can work effectively under the right circumstances. “We have to scale on
+multiple fronts,”47 said one founder of a crowdsourcing design site. Another
+agreed: “Scaling is one of these funny things where you’re always just fixing the
+weakest point.”48 Our study of the leading crowdsourcing platforms suggests that
+scaling strategies come in eight distinct forms (Figure 1). We discuss each one
+te 3
+n = 4 2 2 1 1 1 2 1 2 — 2 1
+I
+s s s s s s s s s s
+trraeo trsexEp trsexEp trsexEp irsgeen irsgeen irsgeen irsgeen irsgeen irsgeen irsgeen irsgeen irsgeen
+
+      
+D D D D D D D D D
+C
+.sw itn isgen isgen isgen isgen isgen isgen (+m isgen isgen
+iItrveen laeuU Isaed Isaed Isaed trcuddo trcuddo trcuddo trcuddo trcuddo trcuddo iiscgend ircahdp ircahdp
+
+      
+V P P P P P P h G G
+d p
+n ra
+a
+G
+s
+e
+s
+a
+
+      
+)
+C 2
+f 2
+
+      
+=
+o
+b.l1eitsL (yapnomN itcaeennnooC itveennoC iigaSenm lrssaeehd airyku syaaehpw ltrscaoooM tsaeudomM rrzcaab irrve btraeunndoTm lrsguh8ooo
+a C Id In N T Q S L C A F A 4
+T
+.
+o
+N
+n = 3 3 3 1 — 2 1 1 1 1 1
+I
+
+      
+)
+th 7
+
+      
+1
+w 0
+o 2
+r (
+G r
+f o
+ie tc
+h ) e
+
+      
+r
+,C 17
+
+      
+i
+) 0 D
+6 2 g
+)r 10 r( it
+
+      
+n
+aeY t(n2 fifceO rkae )610
+( e g M 2
+
+      
+
+        , (
+iItrveenw iliftttrrrccagvSeeeepoooDm fi,iifft()rrckaeeehn1702CMO ,it()(r)seenE20152017dCO ,,(r)enu015202162170do f-r()enu2071doo lit]ssycaaennuoDm ,ll(r)scaFeeehE20
+        
+15oCwO itr()rsaehn2016
+
+        pPP it()rseen2016d itttrr()rycagSee2016o ifiifftrr()ckageeenh0126MO )(E5102O
+      
+
+      
+D P F C [ R V P D C C
+s
+r
+e s s s s s s s s s s s
+
+      
+t t t t t t t t t t t
+m n n n n n n n n n n n
+to lie ile ile ile lie ile ile lie lie lie lie
+s C C C C C C C C C C C
+s s s s s s s s s s .
+irgen irgen irgen irgen itave itave itave itave itave itave itsan
+s s s s e e e e e e su i.t
+e e e e r r r r r r
+D D D D C C C C C C ro ve
+e
+le i
+h
+e te
+bu to
+
+      
+g
+e n
+la it
+sc p
+
+      
+m
+d e
+e t
+v t
+ie a
+h e
+c r
+a a
+G
+
+      
+a t t
+
+      
+IN ty a a
+rcedpooT itrsedoCw rcSdPoRw IaeundBo kaeeY filomM attenpPo lganoT frrsaeUm appooZ lfttsrahom lfttsrahom
+aP bP
+along with the challenges that trigger the strategy and the decisions involved in
+choosing a scaling approach.
+
+      
+
+        
+Curate Existing Creators
+
+        
+Crowdsourcing can get too crowded. During scaling, difficulties can result
+from a rapid increase in users. Scaling can rapidly turn into diseconomies of scale
+if the costs of coordinating creators are bigger than the additional value created
+by them. In the case of Quirky, for instance, a product team frequently exceeded
+8,000 users, and all of them were rewarded with influence for their contributions
+to the tasks from idea generation to product launch. The creation process suffered
+because it was distributed among too many creators. Hence, scaling should
+optimize rather than maximize the number of creators. “We need the right number,
+not a high number per se,”49 Topcoder’s marketing director acknowledges. After
+the crowd size reaches critical mass, the focus shifts from attracting users to
+curating them. Platforms must have qualified and motivated participants who can
+produce the outcome companies want. There are three main ways of doing this.
+
+        
+First, platforms at scale should screen creators to ensure a minimum quality
+threshold and to vet and certify participants. Especially, contest platforms seek the
+minimally efficient set of users available to solve the problem and not to waste
+their time. In line with the suggestion to “slow down to scale fast—and better—
+down the road,”50 CrowdSPRING stopped registration for new designers to
+reexamine how and to whom they grant access. They realized the excess costs of too
+many creators and asked for identification based on government IDs. The CEO
+also shared other measures with us:
+
+        
+For certain categories on crowdSPRING, including logo design, web design, and
+naming, we asked them for samples of their work and we would approve them
+to participate in those categories only if those samples met our standards for
+quality. So, in the roughly six months that registration was closed, we had
+something like 10,000 people on the waitlist. We are a ten-year-old company, and still
+see close to 2,000 designers and writers a month registering to work on
+crowdSPRING.51
+
+        
+Automating screening is required for large-scale sites. An illustrative
+example is 99designs. They use technology to verify users’ identity, remove duplicated
+entries, and report unwanted behavior. Another example for curating creators
+comes from IdeaConnection, a team-based crowdsourcing innovation platform.
+Its SolverTeams Solutions assembles curated teams of creators through artificial
+intelligence to solve innovation challenges.
+
+        
+Second, platforms need to cultivate desired behavior to build the skills of creators
+and develop desired crowd behavior. User profiles and rankings are important
+features to keep participants reliable and honest. They also convey status, which can
+satisfy the members’ desire to receive recognition. Topcoder—a community platform
+for competitive designers, developers, data scientists, and architects—encourages
+desired behaviors by offering a reliability bonus for participants who are consistent
+
+        
+Paths and strategies to scale crowdsourcing platforms.
+
+        
+
+          
+ACTORS
+
+        
+
+        
+
+          
+INTERACTIONS
+
+        
+
+        
+
+          
+VALUE UNITS
+
+          
+CREATORS
+CUSTOMERS
+
+        
+
+        
+
+          
+Curate existing creators
+
+          
+crowdSPRING controlling access and enabling
+designers to get better
+
+        
+
+        
+
+          
+Attract new creators
+
+          
+InnoCentive attracting skilled creators for new
+innovation challenges
+
+        
+
+        
+
+          
+Deepen relationship with existing customers
+
+          
+Tongal adding consulting services to serve large
+clients on an ongoing basis
+
+        
+
+        
+
+          
+Acquire new customers
+
+          
+Topcoder tapping into existing pool of customers
+by joining an IT service company
+
+        
+
+        
+
+          
+Replicate core interaction
+
+          
+Arcbazar removing frictions to repeat contests
+more frequently
+
+        
+
+        
+
+          
+Add new interactions
+
+          
+Local Motors adding complementary interaction to
+extend integrator platform as two-sided platform
+
+        
+
+        
+
+          
+Increase value of core value unit
+
+          
+Poptent moving up-market to produce videos for
+TV instead of online channels
+
+        
+
+        
+
+          
+Extend to new value units
+
+          
+99designs adding web design in addition to logo
+design to access larger market
+with responding and delivering their contribution. Others include reciprocal voting,
+where creators and customers rate each other. This exchange of social currency is a
+signal of quality and builds the reputation that enables future interactions.
+
+          
+Third, large-scale sites can create sub-communities. Consider the coordination
+efforts of more than a million design and technology experts or the task of
+activating enough creators to continuously deliver high-quality solutions to clients. To
+reduce the coordination costs and leverage the benefits of community, platforms
+can segment large crowds into sub-communities. This strategy was pioneered by
+open source communities to scale many-to-many interactions and is increasingly
+adopted by large-scale crowdsourcing platforms. Let us look at how one platform
+segments their community. Topcoder creates smaller groups for certain topics
+because “it drives better fulfillment rates around the next unit of work by having
+the right mix of talent and the right volume of participants around that unit.”
+Sub-communities allow for more “niche messaging within those communities
+and creates happier customers.”52 Platforms can empower their top creators to
+become group leaders of sub-communities. IdeaConnection leverages facilitators
+from the community to coordinate the groups who compete in their challenges.
+“They handle most of the sort of mundane day-to-day of answering questions,
+organizing meetings, all of that kind of stuff,” says IdeaConnection’s president.
+“So as we scale up, all we need is more facilitators and it doesn’t cause us too
+much more work.”53
+
+        
+
+      
+
+      
+
+        
+Attract New Creators
+
+        
+Platforms can scale by bringing in additional creators that are capable of
+solving new innovation challenges. Consider that InnoCentive now covers a
+broad spectrum of innovation challenges from chemistry, physics, science,
+engineering, and consumer products to social innovation. Their co-founder explains
+their organic approach to acquire new creators: “As we post challenges in new
+domains, we grow our solver base as there is a high likelihood that many of
+our over 375,000 solvers recruit from their personal networks capable in the
+new domain.”54 To attract skilled creators, it is helpful to consider the motives
+of money, love, and glory55 because platform managers are “not here to judge
+what’s valuable to an individual; we are here to offer the right mixture of
+incentives for people.”56
+•
+•
+
+        
+Share value captured: When the platform owner’s revenue increases, crowd
+contributors will increasingly demand money. The former president of
+Topcoder points out that money has gained in importance over time for their
+community members: “The members are participating directly in the value
+capture; they are the source of the value that is being provided in the
+community.”57 The tension between crowd value creation versus platform owner
+value capture can be a source of conflict. Crowdsourcing platforms at scale
+need to adjust their initial value co-capture mechanism that satisfied the early
+adaptors. Threadless has done an outstanding job in this regard. While the
+platform initially relied on a prize money approach, they recently shifted to a
+revenue sharing model and increased the percentage rate artists receive as a
+form of compensation. To ensure ongoing crowd production, crowdsourcing
+sites need to create systems that involve the crowd in value creation as well
+as value capture. There are caveats to this recommendation. On the quest for
+scalable incentives, platform leaders need to be aware of the curse of cash
+incentives. Financial incentives are costly and might crowd out intrinsic
+motivation. Providing a viable reward for contributors is more complicated than
+providing monetary incentives, and a systems view is needed to balance out
+monetary and nonmonetary incentives. The CEO of eYeka, a creative
+content and idea crowdsourcing site, explained that by keeping prize money low,
+they avoid it becoming the primary driver for their community members:
+We want the freshness; the people who see collaborating with brands as a fun and
+meaningful activity. The financial motivation should be secondary. The first
+motivation is about self-expression and fulfilment of your creative potential and
+learning from feedback.58
+Provide recognition from multiple sources: Oversized communities are problematic
+for glory because users might go unnoticed or no longer get the attention they
+feel they deserve for their creative contributions.59 How can platform leaders
+provide recognition as the crowd grows? First, technical features can
+automatically provide credit. For instance, Topcoder leverages gamification
+tactics, such as ranking members and showcasing the core members’ status with
+badges. Second, recognition can come from other sources than the platform
+owner. Creators on 99designs benefit from accumulating acknowledgment
+from their peers and achieving status in the community. Third, the company
+can use their platform not only to create products, but also to showcase their
+community members. Blogs, awards, and events are viable mechanisms to
+accomplish that. Although initiatives like events are very useful to provide
+recognition, they might fail to scale because of the costs involved and the
+limited reach. Topcoder transitioned from one large Topcoder Open in San
+Francisco to decentralized smaller events in major markets.60 For the creators with
+a desire to enhance their professional and personal identity, offering
+challenges by leading brands is a practical approach. For instance, Tongal (content
+creation platform) grows their creators by involving well-known clients.
+Preserve the love: When a platform quickly adds new users and faces pressure to
+grow revenue, protecting creators’ intrinsic motivation, or love, can be difficult.
+Platforms must preserve the community’s passion that drove the platform’s
+early growth. Many creators are driven by a desire for learning and skill
+development. Crowdsourcing ventures should build upon this motive to stimulate
+creators’ interests. In line with the shift from an initial focus on crowd growth
+to enhancing the quality of the crowd, strategies should focus on providing
+learning resources and connecting creators with each other for peer learning.
+
+      
+
+      
+
+        
+Deepen Relationship with Existing Customers
+
+        
+Thriving platforms have enough customers to make it worthwhile for
+creators to create. A lack of customers will discourage creators, and the platform will
+collapse. Consumption takes many forms: from paying attention to the
+submitted ideas to paying for the products created by the crowd. Crowdsourcing contest
+sites realize that in order to scale, they need to increase the volume of business
+with existing clients. The president of the failed video crowdsourcing site Poptent
+admitted that rather than chasing one-time transactions, they should have
+focused on repeat business from existing clients:
+
+        
+Going slower, we might have gotten to a 20 or 25 million dollar shop, but the only
+way we could do it is by doing a lot of repeat business with the customers we had
+and trying to manage that with fewer or more productive sales folks.61
+
+        
+Their failure is a helpful reminder about the importance of preventing
+expenses from growing faster than sales. There are many ways a platform can
+boost sales from existing clients. Let us look at the most important.
+
+        
+One approach that aims to make crowdsourcing a more prominent choice
+for how to source innovation is to add services to serve large clients. The biggest
+growth opportunity for crowdsourcing sites is to take volume away from
+traditional ways to source ideas, designs, or products. Many content-oriented
+platforms mimic full-service agencies that large brands are familiar with by offering
+supporting services. Their challenge is the transition from being perceived by
+brands as an experiment to fill content gaps or test budgets, to being the preferred
+choice for all kinds of content creation. Hence, Tongal and others focus on
+deepening their relationships with top clients to enhance the lifetime value of their
+customers. They provide comprehensive service to companies by guiding them
+from content strategy to execution, rather than by running an isolated crowd
+contest for them. The challenge for the crowdsourcing platform is to remove the
+friction from the interaction “because the brands, unlike agencies, are not used to
+work directly with content creators and they are afraid of how to do it.”62 For
+example, eYeka aims to be included in the protocols of big brands to generate
+recurring demand, and Mofilm focuses on large corporations that manage
+multiple brands. However, a consulting service model bears the risks of excessive costs
+required to develop customized solutions compared with the self-service model.
+That said, some crowdsourcing platforms might manage to achieve the holy grail
+of providing self-service for small clients and strategy consulting for large clients
+to grow across client segments.
+
+        
+To achieve the vision of InnoCentive’s co-founder that companies “will
+start using this as an integral part of their basic innovation and development
+processes,”63 crowdsourcing platforms need to address client concerns. Concerns by
+many companies refer to the uncertainty of the innovation outcome or the
+crowd’s reliability. Hence, platforms must put mechanisms in place to ensure that
+participants have little or no fear when using the site. Satisfaction guarantees
+serve as insurance for clients to reduce the consumption risk. Clients on
+IdeaConnection are expected to pay only if the crowd has delivered an acceptable
+solution for them. An alternative solution is to provide more direct and focused
+interactions with the crowd members. Another source of discomfort for clients is
+losing control over the creation process. Forward thinking platforms like Tongal
+realize that brand alignment is critical for the satisfaction of their clients. Clients
+struggle to give up control over their brand and if the platform does not provide
+some mechanism for brand control, it can fail. However, a client’s need for
+control must be balanced with creators’ freedom. This is one of the most difficult
+design decisions because it involves features that put the different platform actors
+at odds with each other.64 Platforms need to manage this trade-off in a way that
+does not offend the community but still satisfies the clients’ needs. Given the
+relative scarcity of clients and their importance for the platform’s long-term
+success, managers should optimize their processes for customers. Other concerns are
+related to legal issues such as intellectual property rights and confidentiality.
+Topcoder educates clients on their privacy policies and intellectual property
+assignment rules. They allow clients to keep their company names anonymous
+during competitions and help them generate test data sets to avoid the exposure
+of sensitive information.65
+
+        
+Once an initial innovation challenge is successful, platforms should encourage
+and help their clients share the success internally. Topcoder’s marketing director explains:
+It is worthy to think about scale that way: If you’ve got the right client, the right
+person, then do what you can to help them showcase it internally. Just do
+everything you possibly can, to make their lives easier. 66
+
+        
+Sharing the success can move a company from running a single challenge
+“into someone that is engaged year-round for many years to come” by helping the
+client’s champion “stand on an innovation soapbox and be like ‘Hey we did this
+really impressive virtual thing in an alternative way.’”66
+
+      
+
+      
+
+        
+Acquire New Customers
+
+        
+The lack of demand is the most reoccurring issue throughout our
+conversations with the executives of client-oriented crowdsourcing platforms.
+Demand rather than supply constrains scaling efforts. Idea Bounty, a creative
+crowdsourcing site, is a case in point. In a post-mortem letter, the team
+admitted that they failed because they could not attract enough clients, despite
+1,000 creatives ready to solve the challenges broadcasted by companies.
+Clients chose traditional advertising agencies over the riskiness of an idea born
+of an independent crowd member. In a similar fashion, Topcoder had to
+contend with the demand side as the bottleneck to scale. The CEO recalls the key
+insight that they could not build a large-scale business upon the early adopters
+in niche markets:
+
+        
+From a traditional perspective, it was a healthy business. But it was nowhere near
+what was needed to feed the community. Our community was growing. They
+were hungry and we were not able to keep up with getting into customers to feed
+the community.
+
+        
+Topcoder concluded that the “market was not ready,” and it decided “to go
+to the market” by joining an IT service company in order to capture a share of
+their work.67
+
+        
+For crowdsourcing platforms to thrive, both sides of the platform need to
+grow proportionally. One strategic move to acquire new customers is to expand
+geographically. To achieve critical mass in a narrow market, many crowdsourcing
+platforms initially focus on one geographic region that contains both creation and
+consumption activity. However, this small market should be representative of the
+overall market. Consider how Crowdsite, a graphic design crowdsourcing
+platform, started in their home market in the Netherlands. In this micro-market, the
+competition was limited. After successfully establishing the venture on their home
+turf, they expanded to Germany and recently to the United States. 99design
+decided to conquer the U.S. market, rather than their home market because of the
+volume of potential clients. Internationalization often requires language
+translations to reduce barriers. Premature geographic expansion can be a stumbling
+block on a platform’s scaling path. Take, for example, the case of Poptent. Their
+expansion to South America created too many complications when they offered
+an English and a Portuguese version and also confronted cultural differences in
+recruiting platform participants.68 Partnerships with local communities of
+creatives helped Tongal address the quality issues associated with international
+expansion. 99designs scaled quickly in Europe through an acquisition with an
+existing multilingual crowd design site.
+
+        
+Piggybacking on existing networks of customers is a cost-effective way to grow the
+customer base. Crowdsourcing ventures have been successful with creating
+partnerships that provide them access to companies or agencies that are already
+working with a great number of brands. For Fiverr, a crowdsourcing platform for creative
+services, tapping into existing networks of business owners has played a critical role
+in unleashing their scaling power. They collaborated with a New York Chamber of
+Commerce event to reach 30,000 small business owners and used PayPal as a
+channel to reach 12 million users around the world with a special promotion.
+
+        
+Another approach to scale consumption is to offer the value unit through
+different distribution channels. Online, this could mean spreading the creations through
+widgets or offering the crowdsourced products across various sites. For example,
+48hourslogo, a crowdsourcing site focused on logo design, provides a white label
+version of their platform so that other companies can integrate the crowdsourcing
+process on their website. The result is more exposure for designers, which
+stimulates creation. Userfarm’s social media package allows a one-click upload of social
+videos on the client’s Facebook page in addition to their platform. Prominent
+offline strategies to establish additional consumption outlets are retail
+partnerships. Think about how Threadless succeeded in diffusing the crowd’s designs by
+teaming up with distribution partners like GAP. In these cases, crowdsourcing
+platforms can often enjoy synergies resulting from the massive reach of
+established brands and their extensive marketing activities.
+
+      
+
+      
+
+        
+Replicate Core Interaction
+
+        
+Many successful platforms scale well by increasing the volume of their
+existing interaction before they extend their user base or add interactions. The
+crowdsourcing architecture platform Arcbazar follows just this pattern. For them,
+“scaling means running 100, or 1000, competitions simultaneously.”69 To boost
+the frequency of the core interaction, reducing friction is the first order of
+business. The core interaction spans creation, curation, and consumption.
+•
+•
+
+        
+Creation: When platforms scale, it is almost always connected to creeping
+complexity. While the dominant words in scaling conversation are usually about
+addition, scaling crowdsourcing requires reduction. The founder of Crowdsite
+realized that “we have developed too many features last year,” and they need
+to “streamline processes to ensure the features are used.”70 Platforms need to
+strip away complexity and excess process to narrow focus and increase
+usability. Crowds want to be challenged by the co-creation task, not by technical or
+organizational hurdles. They need clear procedures for participating in value
+creation, including guidelines for creating products or designs, clear
+evaluation criteria, and a reasonable selection process of the winning contributions.
+Complexity could also lead to diseconomies of scale if the platform needs to
+provide additional unscalable customer service.
+
+        
+Curation: When we think of crowdsourcing, we often assume that more is
+better. However, the success of crowd ventures during the scaleup phase
+is driven not solely by quantity, but rather by quality. The key curation
+challenge is to balance open participation with quality control to avoid the
+platform becoming loaded with poor quality. Crowdsourcing needs to yield
+solutions that provide the outcome sought by the companies sponsoring
+the challenges. However, in the idea category, businesses and analysts are
+concerned that the approach fails to provide any competitive advantage.71
+The problem of abundance also leads to “crowding” when clients of
+crowdsourcing contests are overwhelmed by too many submissions given their
+limited attention span and capacity to process information.72 Platforms need
+to ensure that the curation mechanisms do not break down in the face of
+increased creation activity. Internal quality control adds costs, slows down
+the process, or misses the opportunity to engage the crowd in this
+function. The trick is to craft curation mechanisms that provide the quality and
+quantity of the value unit as well as being cost-efficient to ensure scalability.
+Numerous platform leaders are considering reconfiguration of their
+internal manual curation process through community-driven curation in light
+of the increased volume of content. They find inspiration from platforms
+that create feedback loops encouraging users to participate in reporting,
+voting, or reviewing the core value unit. Ideally, the platform relies on a
+self-policing community to ensure quality. However, relying on crowd
+curation might be overwhelming for the community in the face of an
+exponentially growing amount of output. Here is a telling example: Threadless users
+were incentivized to evaluate a high number of designs in a very short time.
+This monetary incentive skewed the actual assessment of designs.
+Addressing the limits of explicit community-based voting, platforms are building-in
+automation for quality control to separate the signal from the noise. One
+approach is to draw upon implicit voting, resulting from actions such as
+viewing, downloading, or buying an item to sort and filter the value units.
+• Consumption: As we have seen, crowdsourcing platforms only function if there
+is consumption. In addition to the tactics focused on attracting and retaining
+clients, platforms need to manage the activities involved in this step of the
+interaction process. Consumption typically starts with the call for crowd
+contributions. Crowdsite provides an illustration of how to simplify this first step.
+They reduced the friction during consumption by adding an option to call for
+contributions in a short tweet format. This feature, called “shout,” quickly
+attracted many new clients when it launched in 2016. In a recent update, the
+founder told us that they plan to start charging for “shouts” because of the
+strong demand. Does simplification bring risks? Absolutely. The outcome of
+crowdsourcing is shaped by how the client defines the challenge brief. The
+more complex the value unit, the more complicated it is to gather all the
+requirements. For instance, 99designs adjusts the design briefs for their
+product categories. Especially for R&D crowdsourcing sites, platforms invest a lot
+of effort, time, and resources to help clients define the innovation challenge.
+These costs need to be reduced for effective scaling. To tackle this challenge,
+Topcoder, among others, seeks to productize the service of framing the
+innovation task to tap into a larger market of smaller clients. They aim to move
+away from constantly reinventing their service to fit unique needs of every
+new client because “it is hard to experience any momentum when you are
+always starting over.”73
+
+      
+
+      
+
+        
+Add New Interactions
+
+        
+Platforms that pursue this pathway seek to extend their core interaction
+or add a completely new interaction. Crowdsourcing platforms are designed one
+interaction at a time and start with one platform model. They expand over time
+to embrace many kinds of interactions and create hybrid business models. For
+instance, integrator platforms frequently add a two-sided platform component to
+allow the direct connection of creators and customers. Local Motors, the
+crowdbased motor vehicle manufacturing company, illustrates this path to scaling. The
+company started with integrating the crowd input into their vehicle, which they
+sold to customers. To expand their reach, they added interactions of a two-sided
+platform to enable creators to directly interact with customers around a wide range
+of other industrial products. This dual model is powerful: Local Motors’ Rally
+Fighter car is co-created through an integrator model and sold more efficiently by
+the company as a “reseller” rather than by many small sellers. The long tail
+products of marketplaces are best sold by independent creators directly to consumers.74
+
+        
+Adding interactions provides revenue opportunities. Consider how
+99designs added longer engagements through 1-to-1 projects, in addition to the
+popular contest model. Clients can select a designer they want to work with
+(perhaps one they identified through a crowd contest), specify a project, and pay the
+creator. The company captures value through a transaction fee. This additional
+interaction between existing creators and clients is currently the largest revenue
+growth driver for the company. While adding additional interactions can help
+platforms grow, it also increases a risk for too much complexity and a company’s costs
+of operation. Notably, 99designs stopped other interactions like tasks (on-demand
+short design tasks) or ready-made logos (clients choosing from an existing
+collection of crowd-generated logos) to focus on their most effective interactions.
+Similarly, 48hourslogo learned that adding web design as a value unit would have
+required a new interaction because the contest model worked well for logos, but
+was not effective for more complex design tasks. Thus, while adding interactions
+could potentially help platforms grow, it also increases the risk of friction between
+the different interactions, and thereby the platform’s costs of operation.
+
+        
+This path of adding interactions starts with two steps: identifying
+interaction opportunities, and recognizing actors likely to benefit from this interaction.
+Adding interactions can add new sides to a multi-sided platform. For their core
+interaction, Mofilm represents a two-sided platform that connects filmmakers
+with companies in need of content. The company is attempting to attract an
+additional side: consumers of user-generated content. They launched Mosaic as a
+channel to distribute the crowd-generated content to end-consumers. These
+distribution channels create additional revenue opportunities by connecting brands
+not only with creators of content, but also with consumers of content. For instance,
+Airbnb hired a crowd member to produce a series of videos for the Mosaic travel
+channel on YouTube. More sides lead to potentially larger cross-sided network
+effects and the diversification of revenue sources for the platform.
+
+        
+While crowdsourcing, per definition, includes an open call, crowdsourcing
+is making progress toward being more selective. Large-scale platforms are adding
+more exclusive mechanisms in addition to the open contest model. Premium
+challenges limit access in a contest. For selecting participants, 99designs’ use of
+analytics is noteworthy: they collect data on all designers to make the matching of
+designers with tasks quicker and better. Based on this rating, they identify a group
+of 5,000 platinum designers with unique designs skills, who are invited to
+participate in select contests. Another design contest platform brings highly qualified
+participants to contests through a designer invitation prize. Clients can invite
+particular designers to join the challenge. Mofilm charges premium prices for the
+companies who seek to engage only the best creators in a contest. Creators’
+chances to win are increased, and commissions are paid directly to them. This
+avoids the best crowd members outgrowing their community.
+
+      
+
+      
+
+        
+Increase Value of Core Value Unit
+
+        
+While every platform needs curation to manage the quality and quantity
+of the innovation outcome, improving the core value unit can itself be a viable
+scaling strategy. With higher quality outcomes of the crowdsourcing process,
+platforms can charge more or access a new market. Poptent realized that their users
+are capable of not only producing videos for user-generated channels, but for
+television ads. This allowed the platform to move up-market to offer a higher-priced
+value unit for clients. Driving scaling by increasing the value of the value unit can
+also expand the market by becoming viable for new types of customers. Producing
+higher quality outcome has helped sites like Userfarm to transition from being
+“regarded as something for amateurs, kids, or unprofessional people to an accepted
+and respected art form in which real filmmakers are engaging.”75 Improving the
+quality of the outcomes is 99designs’ top priority to tap into larger companies.
+They are controlling the experience of their platform to have “more hits than
+misses.”76 While the company established a strong brand within the startup
+community for logo design, they need to ensure they can build trust among established
+companies to crowdsource their design needs. Arcbazar succeeded in growing their
+client’s trust and, thus, could increase their cut from the prize money, which also
+continues to grow.
+
+      
+
+      
+
+        
+Extend to New Value Units
+
+        
+A crowdsourcing platform can hit the limits during expansion because it
+is starting to bump up against the limits of the markets it serves. While initially,
+crowd upstarts solve a pain point for a niche segment producing one type of
+value unit, over time, they add new product categories to increase the
+interaction frequency and attract new actors. Platforms need to decide whether to go
+deep (vertical expansion) or broad (horizontal expansion). It is possible to
+imagine arguments on both options. 99designs tackles this scaling lever by focusing
+on design, but within this category, they are going deep. To transition from the
+early adapters (startups) to the mass market (companies), they are
+introducing categories that are relevant for the majority market. They realized that the
+marketing channels were getting incrementally more expensive to get the next
+customer in their current market. This observation triggered the decision to
+look for segments they could target in a more profitable way: “We decided that
+our bigger opportunity was going after an established business that had regular
+design needs. To serve that market well, you need to have the quality and
+consistency in place.”77 Fiverr, a competitor to 99designs, is adapting the horizontal
+expansion strategy covering a broad range of tasks including design, writing,
+and programming to be a one-stop shop for freelance services for entrepreneurs.
+Companies need to be aware of the trade-offs in stretching their category. While
+Tongal is open to include new technology trends like virtual reality, they stress
+that by focusing on one category (video), they achieve a level of expertise they
+can leverage to repeat the core interaction better than competitors. To decide
+which value units to add, platforms need to listen carefully to the demand of
+clients as well as market trends. NineSigma leverages a client advisory board
+to guide their decisions about which additional value units to add. Userfarm
+embraces emerging technologies to generate new value units. Their recent
+challenges on vertical video attracted brands such as Audi and Nespresso. Userfarm’s
+chief marketing officer reports that this scaling strategy has “lead to
+substantial network growth both in amateur filmmakers, used to filming in this style
+and possessing the technology required, and in experienced filmmakers
+stimulated by the challenge of the new format.” Because the trend is grassroots, it
+is particularly effective to “attract many filmmakers who otherwise would be
+excluded by the traditional production processes and vested interests wedded
+to landscape format filmmaking.”78 For Topcoder, the choice of value units also
+followed the technology evolution. They initially focused on data science and
+programming challenges. In 2006, the platform added graphic design challenges
+as an extension of the type of problems they are solving. Platforms choosing this
+scaling path need to attract new creators with the required skills, which
+underlines that the strategies are linked.
+
+      
+
+    
+
+      
+Conclusion
+
+      
+The crowdsourcing platforms highlighted in different industries have
+different platform models and operate in different contexts. However, they
+share a problem faced by all crowdsourcing sites: how can we scale our
+platform effectively? The framework for scaling paths combines actors,
+interactions, and value units to make a number of distinct strategic moves available.
+It helps to identify, select, and sequence approaches to scaling. For each scaling
+path, platforms need to facilitate value-creating interactions of platform actors
+to produce the value unit. Successful crowdsourcing platforms remove the
+friction from their interactions as well as add additional value-creating
+interactions. The interactions facilitated on crowdsourcing platforms must generate
+access value to allow for value capture. While crowd ventures initially have
+one revenue stream, as they scale, they develop multiple and
+complementary sources of income. Consider the case of Fiverr. As the name implies, they
+started with $5 gigs as the value unit. By adding additional interactions,
+creators today have their own stores offering diverse packages of services with
+different price ranges to provide the best possible solution to their customers.
+This increased the quality and value of their platform, and as a result,
+quadrupled revenue. Fiverr and the other cases discussed in this article illustrate how
+crowdsourcing ventures need to identify new interactions and improve existing
+ones to scale up their platform.
+
+      
+Author Biography
+Thomas Kohler is Associate Professor at Hawaii Pacific University, Visiting
+Professor at Jönköping International Business School, and Visiting Scholar at
+University of Innsbruck (email: tkohler@hpu.edu).
+
+      
+Notes
+
+    
