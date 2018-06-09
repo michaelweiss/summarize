@@ -94,6 +94,10 @@ textarea {
 	background-color:lightgreen;
 }
 
+.highlight {
+  	background-color: yellow;
+}
+
 td.fg {
 	background-color:#FAF496;
 }

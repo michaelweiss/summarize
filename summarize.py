@@ -30,8 +30,9 @@ def index():
 def summarize():
 	title = request.form['title']
 	text = request.form['text']
+	text = " ".join(text.replace("\n", " ").split())
 	tt = TextTeaser()
-	sentences = tt.summarize(title, text)
+	sentences = tt.summarize(title, text, 5)
 	return render_template('summarize.html', title=title, text=text, 
 		summary=sentences)
 

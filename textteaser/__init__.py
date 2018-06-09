@@ -9,9 +9,9 @@ class TextTeaser(object):
     def __init__(self):
         self.summarizer = Summarizer()
 
-    def summarize(self, title, text, category="Undefined", source="Undefined", count=5):
+    def summarize(self, title, text, count=5, category="Undefined", source="Undefined"):
         result = self.summarizer.summarize(text, title, source, category)
         result = self.summarizer.sortSentences(result[:count])
-        result = [res['sentence'] for res in result]
+        result = ["[{:1.3f}] ".format(res['totalScore']) + res['sentence'] for res in result]
 
         return result
