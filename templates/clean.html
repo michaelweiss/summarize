@@ -1,28 +1,5 @@
 <link rel="stylesheet" href="css/style.css" type="text/css">
 
-<script>
-function find(searchText) {
-	t = document.getElementById("doctext");
-	html = t.innerHTML;
-	// leading text not part of sentence: "[0.123] "
-	searchText = searchText.substring(8);
-	l = html.indexOf(searchText);
-	if (l != -1) {
-		html = html.substring(0, l) +
-			"<span class='highlight'>" +
-			html.substring(l, l + searchText.length) +
-			"</span>" +
-			html.substring(l + searchText.length, html.length);
-		t.innerHTML = html;
-		// t.selectionStart = l;
-		// t.selectionEnd = l + searchText.length
-	} else {
-		alert('not found');
-	}
-	return true;
-}
-</script>
-
 <form method="POST" action="/clean">
 <h4>Document (cut and paste)</h4>
 <p><textarea name="text" value="Enter text"></textarea></p>

@@ -25,7 +25,7 @@ def index():
 def clean():
 	text = request.form['text']
 	c = Cleaner()
-	sentences = c.clean(text)
+	sentences = c.cleanWithScore(text)
 	return render_template('clean.html', text=text, cleaned=sentences)
 
 class Cleaner:
@@ -35,29 +35,34 @@ class Cleaner:
 
 	def initDict(self):
 		self.words = set()
-		with open('data/20k.txt') as file:
+		self.addWordsFromList('data/20k.txt')
+		self.addWordsFromList('data/wordnet.txt')
+		self.addWordsFromList('data/mydict.txt')
+
+	def addWordsFromList(self, list):
+		with open(list) as file:
 			words = file.readlines()
 		for word in words:
 			self.words.add(word.strip())
 
 	def clean(self, text):
-		sentences = text.splitlines()
-		print "sentences: {}".format(len(sentences))
+		sentences = self.parser.splitSentences(text)
 		cleaned = []
 		return [sentence for sentence in sentences 
 			if self.sentenceScore(sentence) >= THRESHOLD]
-			# score = self.sentenceScore(sentence)
-			# cleaned.append("{:1.3f}".format(score))
-			# cleaned.append(self.cleanSentence(sentence))
-		# return cleaned
 
-	def cleanSentence(self, sentence):
-		sentence = self.parser.removePunctations(sentence)
-		words = self.parser.splitWords(sentence)
+	def cleanWithScore(self, text):
+		sentences = self.parser.splitSentences(text)
 		cleaned = []
-		for word in words:
-			cleaned.append('[' + word + ']')
-		return " ".join(cleaned)
+		# return [sentence for sentence in sentences 
+		#	if self.sentenceScore(sentence) >= THRESHOLD]
+		for sentence in sentences:
+			score = self.sentenceScore(sentence)
+			if (score >= THRESHOLD):
+				cleaned.append("{:1.3f}".format(score))
+				cleaned.append(sentence)
+			# cleaned.append(self.cleanSentence(sentence))
+		return cleaned
 
 	def sentenceScore(self, sentence):
 		sentence = self.parser.removePunctations(sentence)
