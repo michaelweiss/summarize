@@ -21,7 +21,7 @@ text = "We spend a lot of time thinking about web API design, and we learn a lot
 title = title.decode('utf-8')
 text = text.decode('utf-8')
 
-@app.route("/")
+@app.route("/summarize", methods=['GET'])
 def index():
 	return render_template('summarize.html', title=title, text=text,
 		summary=[])

@@ -13,6 +13,8 @@ To start summarize, set it as application to use in the `FLASK_APP` environment 
 > flask run --reload --host 0.0.0.0
 ```
 
+To run the client, open a browser at http://localhost:5000/summarize.
+
 ## License
 
 This code is released under an MIT License.
